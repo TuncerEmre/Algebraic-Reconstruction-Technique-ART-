@@ -25,7 +25,7 @@ This repository contains an implementation of the Algebraic Reconstruction Techn
 2. **Cloning or Downloading the Repository**  
    - Clone this repository:
      ```
-     git clone https://github.com/YourUsername/YourRepoName.git
+     https://github.com/TuncerEmre/Algebraic-Reconstruction-Technique-ART-.git
      ```
    - Or download the .zip file and extract it.
 
